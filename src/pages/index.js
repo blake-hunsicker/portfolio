@@ -7,9 +7,9 @@ import Layout from "../components/layout"
 export default ({ data }) => {
 	return(
 		<Layout>
-	    <h4>
-	      Founder and writer of Diagram News, a blog covering artificial intelligence. Previously a senior product designer at The Washington Post.
-	    </h4>
+	    <p className="summary">
+        Founder and designer of Diagram News, a blog covering artificial intelligence. Previously a senior product designer at The Washington Post.
+      </p>
 	    <div className="work-table">
 	    	{data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id} className="work-figure">

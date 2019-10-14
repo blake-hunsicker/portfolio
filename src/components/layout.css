@@ -1,3 +1,8 @@
+  p.summary {
+    font-family: Open Sans;
+    font-weight: 400;
+  }
+
   h5.label {
     margin-bottom: 0;
   }
@@ -21,6 +26,10 @@
   }
   .figure-image {
     grid-column: 5 / 13;
+  }
+
+  footer {
+    margin-top: 4rem;
   }
 
 

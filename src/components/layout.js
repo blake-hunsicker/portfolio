@@ -10,7 +10,7 @@ const ListLink = props => (
 )
 
 export default ({ children }) => (
-  <div style={{ margin: `3rem auto`, maxWidth: 1000, padding: `0 1rem` }}>
+  <div style={{ margin: `3rem auto 0`, maxWidth: 1000, padding: `0 1rem` }}>
   	<header style={{ marginBottom: `1.5rem` }}>
       <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
         <h3 style={{ display: `inline` }}>Blake Hunsicker</h3>
@@ -22,5 +22,8 @@ export default ({ children }) => (
       </ul>
     </header>
     {children}
+    <footer>
+      <small>Blake Hunsicker, 2019. blakehunsicker@gmail.com.</small>
+    </footer>
   </div>
 )
