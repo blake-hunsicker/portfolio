@@ -33,7 +33,9 @@ export default ({ data }) => {
 }
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___order], order: [DESC] }
+    ) {
       totalCount
       edges {
         node {
@@ -43,6 +45,7 @@ export const query = graphql`
             blurb
             tech
             time
+            order
             image {
 		          childImageSharp {
 		            fluid {

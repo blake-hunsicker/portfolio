@@ -1,8 +1,9 @@
 ---
 title: "Founding and building Diagram News"
 blurb: "AI news blog."
-tech: "React, GatsbyJS, and Figma."
-time: "Now"
+tech: "React, GatsbyJS and Figma"
+time: "Current project"
+order: 4
 image: "../images/diagramn.png"
 ---
 

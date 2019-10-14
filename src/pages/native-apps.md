@@ -1,8 +1,9 @@
 ---
 title: "Native iOS and Android design"
 blurb: "Leading the Washington Post's app design."
-tech: "Sketch, Invision, Principle and Framer."
+tech: "Sketch, Invision, Principle and Framer"
 time: "2018 - 2019"
+order: 3
 image: "../images/native2.png"
 ---
 

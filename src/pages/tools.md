@@ -1,8 +1,9 @@
 ---
 title: "CMSs, dashboards, and user admins"
 blurb: "Building tools for the Washington Post newsroom."
-tech: "Sketch, Invision, HTML/CSS."
+tech: "Sketch, Invision and HTML/CSS"
 time: "2015 - 2017"
+order: 2
 image: "../images/tools1.png"
 ---
 

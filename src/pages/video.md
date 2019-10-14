@@ -1,8 +1,9 @@
 ---
 title: "Video"
 blurb: "Leading the Washington Post's app design."
-tech: "Sketch, Invision, Principle and Framer."
+tech: "Sketch, Invision and HTML/CSS and Javascript"
 time: "2013 - 2014; Washington Post 2017"
+order: 1
 image: "../images/video1.png"
 ---
 
