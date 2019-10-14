@@ -1,9 +1,53 @@
+  h5.label {
+    margin-bottom: 0;
+  }
+  h5.time {
+    color: #999;
+  }
+  h3.project-title {
+    margin-bottom: 0.5rem;
+  }
+  .work-table {
+  /*  margin-top: 4rem;*/
+  }
+  .work-figure a {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 0.5rem;
+    margin-top: 4rem;
+  }
+  .figure-text {
+    grid-column: 1 / 5;
+  }
+  .figure-image {
+    grid-column: 5 / 13;
+  }
+
+
+@media only screen and (max-width: 600px) {
+  .work-figure a {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 0.5rem;
+    margin-top: 4rem;
+  }
+  .figure-text {
+    grid-column: 1 / 13;
+  }
+  .figure-image {
+    grid-column: 1 / 13;
+  }
+  ul {
+    display: none;
+  }
+}
+
 html {
-  font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
+  font-family: Open Sans !important;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -40,8 +84,9 @@ template {
   display: none;
 }
 a {
+  color: #222;
   background-color: transparent;
-  -webkit-text-decoration-skip: objects;
+  background-image: none;
 }
 a:active,
 a:hover {
