@@ -4,8 +4,10 @@ blurb: "AI news blog."
 tech: "React, GatsbyJS and Figma"
 time: "Current project"
 order: 4
-image: "../images/diagramn.png"
+image: "../images/diagram0.png"
 ---
+
+![test](../images/video1.png)
 
 Diagram publishes concise and easy-to-read posts, and creates live section pages for news events, big companies and long term trends.
 
