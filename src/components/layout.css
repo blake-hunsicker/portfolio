@@ -12,6 +12,7 @@
   h3.project-title {
     margin-bottom: 0.5rem;
   }
+
   .work-table {
   /*  margin-top: 4rem;*/
   }
@@ -31,6 +32,9 @@
   footer {
     margin-top: 4rem;
   }
+
+/* Project page */
+
 
 
 @media only screen and (max-width: 600px) {

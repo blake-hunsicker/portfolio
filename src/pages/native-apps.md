@@ -17,11 +17,11 @@ At launch, we’re calling out the Post’s new Reading List, which allows users
 
 ### App/Play Store revamp
 
-![test](../images/native2.png)
+![Image](../images/native2.png)
 
 For the App Store revamp, we explored what we want to communicate to first- and long-time users-- anyone who comes to our product page interested in what our app does. We determined what to write in combination with our newsroom stakeholders and user research.
 
-![test](../images/native3.png)
+![Image](../images/native3.png)
 
 ### Rich notifications
 
@@ -33,7 +33,7 @@ Below, I've included examples of both. We wanted to make something that made use
 
 The recirculation module is an end-of-article story carousel we launched last October. It aims to make use of a dead end at the bottom of articles, and boost depth to sections that don't get significant traffic.
 
-![test](../images/native4.png)
+![Image](../images/native4.png)
 
 **Process**
 
@@ -44,6 +44,10 @@ From there, I designed two versions of the carousel and made hi-fidelity prototy
 After sharing these with newsroom stakeholders, my PM and others in product, we decided to use the card design on the right, which more closely resembled story cards we use elsewhere in the app.
 
 We added this feature into a larger user test we ran late last summer. Every user recognized it as a carousel (small win, but still felt good).
+
+Below is an example of spec I shared with developers:
+
+![Image](../images/native5.png)
 
 We put a lot of thought into what stories should go into the carousel. In the end, we decided to emphasize stories from other sections, hoping that would help surface stories users would otherwise not see.
 
