@@ -1,6 +1,6 @@
 ---
 title: "Founding and building Diagram News"
-blurb: "AI news blog."
+blurb: "Designing, developing and launching my own news blog."
 tech: "React, GatsbyJS and Figma"
 time: "Current project"
 order: 4

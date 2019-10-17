@@ -1,6 +1,6 @@
 ---
-title: "Video"
-blurb: "Leading the Washington Post's app design."
+title: "Designing video experiences"
+blurb: "Shooting video and designing the Washington Post video landing page."
 tech: "Sketch, Invision and HTML/CSS and Javascript"
 time: "2013 - 2014; Washington Post 2017"
 order: 1

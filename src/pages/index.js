@@ -8,8 +8,11 @@ export default ({ data }) => {
 	return(
 		<Layout>
 	    <p className="summary">
-        Founder and designer of Diagram News, a blog covering artificial intelligence. Previously a senior product designer at The Washington Post.
+        Founder and designer of <a href="https://diagram.news/">Diagram News</a>, a blog covering artificial intelligence. Previously a senior product designer at The Washington Post.
       </p>
+      <div className="section-label">
+        <h5 className="label">Work</h5>
+      </div>
 	    <div className="work-table">
 	    	{data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id} className="work-figure">
