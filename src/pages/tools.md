@@ -1,5 +1,5 @@
 ---
-title: "CMSs, dashboards, and user admins"
+title: "CMSs, dashboards and user admins"
 blurb: "Building tools for the Washington Post newsroom."
 tech: "Sketch, Invision and HTML/CSS"
 time: "2015 - 2017"
