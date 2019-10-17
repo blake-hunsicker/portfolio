@@ -21,8 +21,7 @@ export default ({ data }) => {
           			<h3 className="project-title">
 		              {node.frontmatter.title}
 		            </h3>
-                <h5 className="time">{node.frontmatter.time}</h5>
-		            <p>{node.frontmatter.blurb}</p>
+		            <p>{node.frontmatter.blurb} {node.frontmatter.time}.</p>
                 <h5 className="label">Made with</h5>
 		            <p>{node.frontmatter.tech}</p>
           		</div>

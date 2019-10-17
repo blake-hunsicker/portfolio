@@ -1,8 +1,8 @@
 ---
 title: "Founding and building Diagram News"
-blurb: "Designing, developing and launching my own news blog."
+blurb: "Designing, developing and launching a news blog."
 tech: "React, GatsbyJS and Figma"
-time: "Current project"
+time: "This is my current project"
 order: 4
 type: "project"
 image: "../images/diagram0.png"
