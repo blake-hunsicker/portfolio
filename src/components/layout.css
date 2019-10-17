@@ -9,10 +9,14 @@
   }
   h5.time {
     font-weight: 400;
-    color: #999;
+    color: #555;
   }
   h3.project-title {
     margin-bottom: 0.5rem;
+  }
+
+  p a {
+    text-decoration: underline;
   }
 
   .work-table {
