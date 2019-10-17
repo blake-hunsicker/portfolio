@@ -4,6 +4,7 @@ blurb: "Building tools for the Washington Post newsroom."
 tech: "Sketch, Invision and HTML/CSS"
 time: "2015 - 2017"
 order: 2
+type: "project"
 image: "../images/tools0.png"
 ---
 

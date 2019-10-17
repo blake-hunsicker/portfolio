@@ -4,6 +4,7 @@ blurb: "AI news blog."
 tech: "React, GatsbyJS and Figma"
 time: "Current project"
 order: 4
+type: "project"
 image: "../images/diagram0.png"
 ---
 

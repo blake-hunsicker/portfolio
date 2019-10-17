@@ -4,6 +4,7 @@ blurb: "Leading the Washington Post's app design."
 tech: "Sketch, Invision, Principle and Framer"
 time: "2018 - 2019"
 order: 3
+type: "project"
 image: "../images/native1.png"
 ---
 
@@ -34,8 +35,6 @@ Below, I've included examples of both. We wanted to make something that made use
 The recirculation module is an end-of-article story carousel we launched last October. It aims to make use of a dead end at the bottom of articles, and boost depth to sections that don't get significant traffic.
 
 ![Image](../images/native4.png)
-
-**Process**
 
 I designed several UX options before landing on a carousel, which we chose because it's a navigational pattern users recognize and it's image-heavy (like the rest of our national app).
 

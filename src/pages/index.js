@@ -34,6 +34,7 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "project" }}}
       sort: { fields: [frontmatter___order], order: [DESC] }
     ) {
       totalCount
@@ -46,6 +47,7 @@ export const query = graphql`
             tech
             time
             order
+            type
             image {
 		          childImageSharp {
 		            fluid {

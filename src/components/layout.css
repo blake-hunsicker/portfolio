@@ -1,12 +1,14 @@
   p.summary {
     font-family: Open Sans;
     font-weight: 400;
+    margin-bottom: 2rem;
   }
 
   h5.label {
     margin-bottom: 0;
   }
   h5.time {
+    font-weight: 400;
     color: #999;
   }
   h3.project-title {
@@ -20,7 +22,7 @@
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-column-gap: 0.5rem;
-    margin-top: 4rem;
+    margin-bottom: 4rem;
   }
   .figure-text {
     grid-column: 1 / 5;
@@ -30,7 +32,7 @@
   }
 
   footer {
-    margin-top: 4rem;
+    margin-bottom: 4rem;
   }
 
 /* Project page */
@@ -39,21 +41,25 @@
     margin-bottom: 1rem;
   }
 
+  ul {
+    /*display: none;*/
+    margin-bottom: 0!important;
+  }
+
 @media only screen and (max-width: 600px) {
   .work-figure a {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-column-gap: 0.5rem;
-    margin-top: 4rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 2rem;
   }
   .figure-text {
     grid-column: 1 / 13;
   }
   .figure-image {
     grid-column: 1 / 13;
-  }
-  ul {
-    display: none;
   }
 }
 
